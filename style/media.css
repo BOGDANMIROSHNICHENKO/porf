@@ -1,0 +1,23 @@
+@media(min-width: 1024px){
+	.container-fluid{
+		margin-left: 25px;
+		font-size: 20px;
+	}
+	.card{
+
+		margin: 18px;
+	}
+}
+@media(max-width: 768px){
+	.card{
+
+		margin: 18px;
+	}
+	.navbar-brand{
+		margin-left: 20px;
+	}
+html,body{
+	width: 100%;
+	overflow-x: hidden;
+}
+}
